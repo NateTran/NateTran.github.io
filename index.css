@@ -19,7 +19,7 @@ h1 {
 .img1 {
     float: left;
     margin: 0 20px 20px 20px;
-	line-height=3.0;
+	line-height:3.0;
 }
 
 .img2 {
@@ -63,8 +63,13 @@ li a:hover:not(.active) {
     background-color: #ddd;
 }
 
-li a.active {
+li a {
     color: white;
     background-color: #4CAF50;
 }
+
 top,right,bottom,left
+
+{
+    
+}
